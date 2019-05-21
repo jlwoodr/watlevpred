@@ -1,0 +1,1 @@
+This is where the rasters that are created in Arc are put.
