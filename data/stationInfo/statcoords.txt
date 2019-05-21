@@ -1,0 +1,6 @@
+-77.78667, 34.21333, Wrightsville Beach, NC
+-77.95333, 34.24333, Wilmington, NC
+-76.67000, 34.72000, Beaufort, NC
+-75.70333, 35.20833, Hatteras, NC
+-75.54333, 35.79500, Oregon Inlet, NC
+-75.74667, 36.18333, Duck, NC
